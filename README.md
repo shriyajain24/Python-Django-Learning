@@ -1,4 +1,4 @@
-# Python Basics Practice
+# Python Basics 
 
 A comprehensive collection of Jupyter Notebooks for learning and practicing Python fundamentals.
 
