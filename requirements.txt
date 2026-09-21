@@ -1,6 +1,8 @@
+asgiref==3.12.1
 asttokens==3.0.2
 comm==0.2.3
 debugpy==1.8.22
+Django==6.1.1
 executing==2.2.1
 ipykernel==7.3.0
 ipython==9.17.1
@@ -22,6 +24,7 @@ Pygments==2.21.0
 python-dateutil==2.9.0.post0
 pyzmq==27.2.0
 six==1.17.0
+sqlparse==0.6.0
 stack-data==0.6.3
 tornado==6.5.10
 traitlets==5.16.1
