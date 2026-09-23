@@ -41,7 +41,7 @@ This repository also includes learning resources and practice work for Django we
 ### Installation
 
 ```bash
-pip install django jupyter
+pip install django 
 ```
 
 ## Learning Path
